@@ -1,6 +1,10 @@
 # Astro Starter Kit: Minimal
 
-```
+## Stack
+
+![Stack](bartag.png)
+
+``` bash
 npm create astro@latest -- --template minimal
 ```
 
